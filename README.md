@@ -1,15 +1,11 @@
-### Hi there i'm João Vitor Celaro
-
-- 🔭 I’m currently working on fullstack
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on new business
+# <div align="center">Hi there i'm João Vitor Celaro<div>
 
 <div align="center">
   <a href="https://github.com/jvcelaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvcelaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcelaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="jvcelaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jvcelaro-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jvcelaro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
