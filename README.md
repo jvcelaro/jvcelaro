@@ -1,4 +1,4 @@
-## <div align="center">Hi there i'm João Vitor Celaro<div>
+# <div align="center">Hi there i'm João Vitor Celaro<div>
 
 <div align="center">
   <a href="https://github.com/jvcelaro">
