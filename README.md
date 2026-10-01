@@ -3,7 +3,7 @@
 # João Vitor
 
 <p align="left">
-  <strong>Data Engineer</strong> com background em tecnologia aplicada a operações e logística,
+  <strong>Data Engineer</strong> com background em tecnologia aplicada a operações e dados
   atualmente aprofundando meus conhecimentos em <strong>Data Science, Machine Learning Engineering e AI</strong>.
 </p>
 
